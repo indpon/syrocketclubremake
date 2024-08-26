@@ -1,2 +1,2 @@
-# syrocketclubremake
-The home page remake for https://syracuserocketclub.org
+# Syracuse Rocket Club Homepage Remake
+The new homepage we have been waiting for, for https://syracuserocketclub.org
